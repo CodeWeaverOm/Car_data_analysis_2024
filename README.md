@@ -3,6 +3,7 @@ This project focuses on analyzing car sales data for the year 2024 to uncover ke
 
 **Key Features:**
 **Data Cleaning & Preprocessing:** Ensuring data accuracy and consistency for reliable analysis.
+
 **Exploratory Data Analysis (EDA):** Identifying patterns, trends, and outliers in car sales data.
 
 **Visualizations:** Interactive charts and graphs to represent sales trends and comparisons effectively.
@@ -12,6 +13,9 @@ This project focuses on analyzing car sales data for the year 2024 to uncover ke
 
 **Tools & Technologies:**
 Python (Pandas, NumPy, Matplotlib, Seaborn)
+
 Data Visualization Techniques
+
 Statistical Analysis Methods
+
 Feel free to explore the repository, review the code, and provide feedback!
