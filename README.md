@@ -4,7 +4,9 @@ This project focuses on analyzing car sales data for the year 2024 to uncover ke
 **Key Features:**
 **Data Cleaning & Preprocessing:** Ensuring data accuracy and consistency for reliable analysis.
 **Exploratory Data Analysis (EDA):** Identifying patterns, trends, and outliers in car sales data.
+
 **Visualizations:** Interactive charts and graphs to represent sales trends and comparisons effectively.
+
 **Insights & Recommendations:** Actionable conclusions based on data analysis to support strategic decisions.
 
 
